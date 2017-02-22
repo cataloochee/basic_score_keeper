@@ -1,0 +1,12 @@
+.winner {
+	color: green;
+}
+
+body {
+	background: lightgrey;
+	text-align: center;
+}
+
+h1, p{
+	color: black;
+}
