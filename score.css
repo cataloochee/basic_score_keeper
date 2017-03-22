@@ -4,9 +4,21 @@
 
 body {
 	background: lightgrey;
-	text-align: center;
 }
 
 h1, p{
 	color: black;
+}
+
+.scoreboard {
+	margin-top: 25px;
+	font-family: sans-serif;
+}
+
+.center {
+	text-align: center;
+}
+
+.buttons {
+	margin-top: 20px;
 }
